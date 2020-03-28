@@ -1,0 +1,40 @@
+floor 1  roomNumber 1  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 1  roomNumber 2  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 1  roomNumber 3  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 1  roomNumber 4  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 1  roomNumber 5  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 1  roomNumber 6  numberOfBid 1  bidPrice 60.0  roomBooked yes  customer SayedAhmed 1289798 88@gmail.com 1 masser
+floor 1  roomNumber 7  numberOfBid 1  bidPrice 60.0  roomBooked yes  customer Fahmy 66783289298 77@gmail.com 1 masser
+floor 1  roomNumber 8  numberOfBid 2  bidPrice 60.0  roomBooked yes  customer Chin 012888888 55@gmail.com 1 masser
+floor 1  roomNumber 9  numberOfBid 2  bidPrice 60.0  roomBooked yes  customer Asma 018736 66@gmail.com 1 american
+floor 1  roomNumber 10  numberOfBid 2  bidPrice 60.0  roomBooked yes  customer Shima 0117746646 7777@gmail.com 1 masser
+floor 2  roomNumber 1  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 2  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 3  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 4  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 5  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 6  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 7  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 8  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 9  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 2  roomNumber 10  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 1  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 2  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 3  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 4  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 5  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 6  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 7  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 8  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 9  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 3  roomNumber 10  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 1  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 2  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 3  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 4  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 5  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 6  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 7  numberOfBid 1  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 8  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 9  numberOfBid 2  bidPrice 60.0  roomBooked no
+floor 4  roomNumber 10  numberOfBid 2  bidPrice 60.0  roomBooked no
